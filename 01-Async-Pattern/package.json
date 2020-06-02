@@ -1,0 +1,14 @@
+{
+  "name": "01-asyncpattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index-01-callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log-update": "^4.0.0"
+  }
+}
